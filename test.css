@@ -1,7 +1,17 @@
 nav {
   /* black */
+  height: 400;
   background-color: #000000;
   color: #ffffff;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
 }
 
 header {
