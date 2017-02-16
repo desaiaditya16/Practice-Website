@@ -1,0 +1,39 @@
+nav {
+  /* black */
+  background-color: #000000;
+  color: #ffffff;
+}
+
+header {
+  /* Gray */
+  background-color: #777777;
+}
+
+body {
+  /* Good LASA Purple*/
+  background-color: #8700ff;
+}
+
+a:link, a:visited {
+    background-color: #000000;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: #666666;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+footer {
+  /* Gray */
+  background-color: #777777;
+}
